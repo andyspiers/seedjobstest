@@ -1,5 +1,5 @@
 folder('team_a') {
-    displayName(null)
+    displayName('team_a')
     description(null)
     authorization {
         permissions('bosun-infra-ci', [

@@ -1,5 +1,5 @@
 folder('team_b') {
-    displayName(null)
+    displayName('team_b')
     description(null)
     authorization {
         permissions('andyspiers', [
